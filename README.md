@@ -8,7 +8,6 @@ HTML – Structure of the chatbot UI
 CSS – Styling for the chatbot interface  
 JavaScript – Handles user input and chatbot responses using an array  
 
-Features: 
 ✅ Simple and lightweight chatbot  
 ✅ Predefined responses for specific messages  
 ✅ Interactive UI with smooth message display  
